@@ -1,0 +1,13 @@
+document.body -> Representa o corpo do site todo
+
+keyup in js -> Serve para ativar o botao de qualquer tecla, ele sgeralmente ativa quando você solta  o botão
+
+keydown in js -> Ele ja funciona diferente do 'keyup' em veze de funcionar só soltando o botao
+ele já ativa quando você aperta o botao 
+
+.code - > Usado quando tem o keyup em evento, code serve para saber qual tecla foi clicado
+
+toLowerCase() -> tem a função de deixar o texto em minúsculo 
+
+currentTime = 0 -> faz o audio iniciar novamente, sem esperar ele terminar
+
